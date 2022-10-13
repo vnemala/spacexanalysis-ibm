@@ -1,6 +1,9 @@
 # Winning the Space Race with Data Science
 SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore, if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch. 
 
+## Executive Presentation
+Please view details on the data science pipeline on the file [Executive Presentation - DS_ML Methodology.pdf](https://github.com/vnemala/spacexanalysis-ibm/blob/main/Executive%20Presentation%20-%20DS_ML%20Methodology.pdf).
+Details regarding the collecting of data, performing data wrangling, completing exploratory data analysis and visualization, and implementing a machine learning pipeline are enclosed in this presentation.
 
 ## File Names and Structure
 1) **Data Collection API.ipynb:** Data Collection with SpaceX REST API
@@ -10,9 +13,6 @@ SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 mill
 5) **EDA with SQL.ipynb:** EDA with SQL
 6) **Interactive Visual Analytics and Dashboard.ipynb:** Interactive Visual Analytics and Dashboard (Folium maps and Plotly Dash dashboard)
 7) **SpaceX_Machine Learning Prediction_Part_5.ipynb:** Predictive Analysis - Classification with SVM, Classification Trees and Logistic Regression (scikit-learn)
-
-## Executive Presentation
-See details on the methodology and results [here](https://github.com/vnemala/spacexanalysis-ibm/blob/main/Executive%20Presentation%20-%20DS_ML%20Methodology.pdf) in the executive presentation
 
 ## Executive Summary
 
